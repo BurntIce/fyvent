@@ -2,6 +2,15 @@
 
 # Fyvent
 
+Nanyang Technological University  
+School of Computer Science and Engineering
+
+Academic Year 2018-2019 Semester 2
+
+source code for CZ2006 Software Engineering project
+
+## Description
+
 Find events that are happening around you in Singapore! Be amazed by what you've yet to explore around the city. This repository holds the source code to this Flutter mobile application.
 
 ## Getting Started
